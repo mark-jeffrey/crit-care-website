@@ -7,8 +7,6 @@ taxonomies.tags = [
 	"checklists"
 ]
 +++
-# Critical Care Intubation Checklist
-
 Adapted from Difficult Airway Society [Guidelines for the management of tracheal intubation in critically ill adults](https://doi.org/10.1016/j.bja.2017.10.021)
 
 ## Prepare the patient
