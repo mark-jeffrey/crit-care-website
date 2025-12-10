@@ -7,9 +7,9 @@ taxonomies.tags = [
     "risk-scores"
 ]
 +++
-## Predicting difficult airway and intuabtion complications
+## Predicting difficult airway and intubation complications
 
-The baseline risk for difficult airway (8-11%) and severe complications (38%) is high in all critically ill patients. Difficult airway greatly increases the risk of severe complcations during intuabtion (30-35% vs 50-60%). Scoring systems for elective surgery therefore seriously underestimate risk in this cohort. 
+The baseline risk for difficult airway (8-11%) and severe complications (38%) is high in all critically ill patients. Difficult airway greatly increases the risk of severe complcations during intubation (30-35% vs 50-60%). Scoring systems for elective surgery therefore seriously underestimate risk in this cohort. 
 
 Consider the [MACOCHA Score](https://doi.org/10.1164/rccm.201210-1851OC) to identify patients at paritcularly high risk and plan accordingly.
 
