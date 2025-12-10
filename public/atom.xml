@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Critical Care Handbook</title>
+    <subtitle>Resources to support residents in ICU</subtitle>
+    <link rel="self" type="application/atom+xml" href="/atom.xml"/>
+    <link rel="alternate" type="text/html" href="/"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2025-12-10T00:00:00+00:00</updated>
+    <id>/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Intubation Checklist</title>
+        <published>2025-12-10T00:00:00+00:00</published>
+        <updated>2025-12-10T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="/blog/intuabtion-checklist/"/>
+        <id>/blog/intuabtion-checklist/</id>
+        
+        <content type="html" xml:base="/blog/intuabtion-checklist/">&lt;h1 id=&quot;critical-care-intubation-checklist&quot;&gt;Critical Care Intubation Checklist&lt;&#x2F;h1&gt;
+&lt;p&gt;Adapted from Difficult Airway Society &lt;a href=&quot;https:&#x2F;&#x2F;doi.org&#x2F;10.1016&#x2F;j.bja.2017.10.021&quot;&gt;Guidelines for the management of tracheal intubation in critically ill adults&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;prepare-the-patient&quot;&gt;Prepare the patient&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;assess-and-position&quot;&gt;Assess and position&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Reliable IV&#x2F;IO access&lt;&#x2F;li&gt;
+&lt;li&gt;Optimise position
+&lt;ul&gt;
+&lt;li&gt;Sit-up&lt;&#x2F;li&gt;
+&lt;li&gt;Mattress hard&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Airway assessment
+&lt;ul&gt;
+&lt;li&gt;Identify cricothyroid membrane&lt;&#x2F;li&gt;
+&lt;li&gt;Awake intubation option?&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Allergies?&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;preoxygenation&quot;&gt;Preoxygenation&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;3 mins or ETCO&lt;sub&gt;2&lt;&#x2F;sub&gt; &amp;gt;85%&lt;&#x2F;li&gt;
+&lt;li&gt;Consider CPAP&#x2F;NIV&lt;&#x2F;li&gt;
+&lt;li&gt;Apnoeic Nasal O&lt;sub&gt;2&lt;&#x2F;sub&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;optimise-patient-state&quot;&gt;Optimise patient state&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fluid&#x2F;vasopressor&#x2F;inotrope&lt;&#x2F;li&gt;
+&lt;li&gt;Aspirate NG tube&lt;&#x2F;li&gt;
+&lt;li&gt;Delayed sequence intubation&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;prepare-the-equipment&quot;&gt;Prepare the equipment&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;apply-monitors&quot;&gt;Apply monitors&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;SpO&lt;sub&gt;2&lt;&#x2F;sub&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;waveform capnography&lt;&#x2F;li&gt;
+&lt;li&gt;ECG&lt;&#x2F;li&gt;
+&lt;li&gt;Blood pressure&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;check-equipment&quot;&gt;Check equipment&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Tracheal tubes x2 (cuffs checked)&lt;&#x2F;li&gt;
+&lt;li&gt;Direct laryngoscopes x2&lt;&#x2F;li&gt;
+&lt;li&gt;Videolaryngoscope&lt;&#x2F;li&gt;
+&lt;li&gt;Bougie&#x2F;stylet&lt;&#x2F;li&gt;
+&lt;li&gt;Working suction&lt;&#x2F;li&gt;
+&lt;li&gt;Supraglottic airways&lt;&#x2F;li&gt;
+&lt;li&gt;Oropharyngeal&#x2F;nasal airways&lt;&#x2F;li&gt;
+&lt;li&gt;Flexible scope&#x2F;Aintree&lt;&#x2F;li&gt;
+&lt;li&gt;FONA set&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;check-drugs&quot;&gt;Check drugs&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Consider ketamine&lt;&#x2F;li&gt;
+&lt;li&gt;Relaxant&lt;&#x2F;li&gt;
+&lt;li&gt;Pressor&#x2F;inotrope&lt;&#x2F;li&gt;
+&lt;li&gt;Maintenance sedation&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;prepare-the-team&quot;&gt;Prepare the team&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Allocate roles (one person may have more than one role)
+&lt;ul&gt;
+&lt;li&gt;Team leader&lt;&#x2F;li&gt;
+&lt;li&gt;1&lt;sup&gt;st&lt;&#x2F;sup&gt; Intubator&lt;&#x2F;li&gt;
+&lt;li&gt;2&lt;sup&gt;nd&lt;&#x2F;sup&gt; Intubator&lt;&#x2F;li&gt;
+&lt;li&gt;Cricoid force&lt;&#x2F;li&gt;
+&lt;li&gt;Intubators assistant&lt;&#x2F;li&gt;
+&lt;li&gt;Drugs&lt;&#x2F;li&gt;
+&lt;li&gt;Monitoring patient&lt;&#x2F;li&gt;
+&lt;li&gt;Runner&lt;&#x2F;li&gt;
+&lt;li&gt;MILS (if indicated)&lt;&#x2F;li&gt;
+&lt;li&gt;FONA&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Who do we call for help?&lt;&#x2F;li&gt;
+&lt;li&gt;Who is noting the time?&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;prepare-for-difficulty&quot;&gt;Prepare for difficulty&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Can we wake the patient if intubation fails?&lt;&#x2F;li&gt;
+&lt;li&gt;Verbalise &quot;the airway plan is...&quot;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Plan A&lt;&#x2F;strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Drugs &amp;amp; laryngoscopy&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Plan B&#x2F;C&lt;&#x2F;strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Supraglottic airway&lt;&#x2F;li&gt;
+&lt;li&gt;Face-mask&lt;&#x2F;li&gt;
+&lt;li&gt;Fibreoptic intubation via supragottic airway&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Plan D&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Does anyone have any questions or concerns?&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Predicting airway complications</title>
+        <published>2025-12-10T00:00:00+00:00</published>
+        <updated>2025-12-10T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="/blog/predicting-airway-complications/"/>
+        <id>/blog/predicting-airway-complications/</id>
+        
+        <content type="html" xml:base="/blog/predicting-airway-complications/">&lt;h2 id=&quot;predicting-difficult-airway-and-intuabtion-complications&quot;&gt;Predicting difficult airway and intuabtion complications&lt;&#x2F;h2&gt;
+&lt;p&gt;The baseline risk for difficult airway (8-11%) and severe complications (38%) is high in all critically ill patients. Difficult airway greatly increases the risk of severe complcations during intuabtion (30-35% vs 50-60%). Scoring systems for elective surgery therefore seriously underestimate risk in this cohort.&lt;&#x2F;p&gt;
+&lt;p&gt;Consider the &lt;a href=&quot;https:&#x2F;&#x2F;doi.org&#x2F;10.1164&#x2F;rccm.201210-1851OC&quot;&gt;MACOCHA Score&lt;&#x2F;a&gt; to identify patients at paritcularly high risk and plan accordingly.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.mdcalc.com&#x2F;calc&#x2F;10476&#x2F;macocha-score&quot;&gt;MACOCHA score on MDCalc&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;It is worth noting that Mallampati score does the heavy lifting in prediction difficult intubations (Identified 51&#x2F;82 alone, compared to 62&#x2F;82 with the full score).&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;score&quot;&gt;Score&lt;&#x2F;h2&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Factor&lt;&#x2F;th&gt;&lt;th&gt;Score&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;&lt;em&gt;Patient factors&lt;&#x2F;em&gt;&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Mallampati III or IV&lt;&#x2F;td&gt;&lt;td&gt;5&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Obstructive Sleep Apnoea&lt;&#x2F;td&gt;&lt;td&gt;2&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Restricted neck movement&lt;&#x2F;td&gt;&lt;td&gt;1&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Mouth opening &amp;lt;3cm&lt;&#x2F;td&gt;&lt;td&gt;1&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;em&gt;Pathology factors&lt;&#x2F;em&gt;&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Coma&lt;&#x2F;td&gt;&lt;td&gt;1&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Severe hypoxaemia &amp;lt;80%&lt;&#x2F;td&gt;&lt;td&gt;1&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;em&gt;Operator factors&lt;&#x2F;em&gt;&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Non-anaesthetist&lt;&#x2F;td&gt;&lt;td&gt;1&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;h2 id=&quot;interpretation&quot;&gt;Interpretation&lt;&#x2F;h2&gt;
+&lt;p&gt;Incidence of difficult airway or airway complication by score:&lt;&#x2F;p&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Score&lt;&#x2F;th&gt;&lt;th&gt;Risk&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;1-2&lt;&#x2F;td&gt;&lt;td&gt;2%&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;3-4&lt;&#x2F;td&gt;&lt;td&gt;5%&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;4-5&lt;&#x2F;td&gt;&lt;td&gt;25%&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;6-7&lt;&#x2F;td&gt;&lt;td&gt;45%&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;8-9&lt;&#x2F;td&gt;&lt;td&gt;50%&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;10-12&lt;&#x2F;td&gt;&lt;td&gt;100%&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+</content>
+        
+    </entry>
+</feed>

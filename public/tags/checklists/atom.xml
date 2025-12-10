@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Critical Care Handbook - checklists</title>
+    <subtitle>Resources to support residents in ICU</subtitle>
+    <link rel="self" type="application/atom+xml" href="/tags/checklists/atom.xml"/>
+    <link rel="alternate" type="text/html" href="/"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2025-12-10T00:00:00+00:00</updated>
+    <id>/tags/checklists/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Intubation Checklist</title>
+        <published>2025-12-10T00:00:00+00:00</published>
+        <updated>2025-12-10T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="/blog/intuabtion-checklist/"/>
+        <id>/blog/intuabtion-checklist/</id>
+        
+        <content type="html" xml:base="/blog/intuabtion-checklist/">&lt;h1 id=&quot;critical-care-intubation-checklist&quot;&gt;Critical Care Intubation Checklist&lt;&#x2F;h1&gt;
+&lt;p&gt;Adapted from Difficult Airway Society &lt;a href=&quot;https:&#x2F;&#x2F;doi.org&#x2F;10.1016&#x2F;j.bja.2017.10.021&quot;&gt;Guidelines for the management of tracheal intubation in critically ill adults&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;prepare-the-patient&quot;&gt;Prepare the patient&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;assess-and-position&quot;&gt;Assess and position&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Reliable IV&#x2F;IO access&lt;&#x2F;li&gt;
+&lt;li&gt;Optimise position
+&lt;ul&gt;
+&lt;li&gt;Sit-up&lt;&#x2F;li&gt;
+&lt;li&gt;Mattress hard&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Airway assessment
+&lt;ul&gt;
+&lt;li&gt;Identify cricothyroid membrane&lt;&#x2F;li&gt;
+&lt;li&gt;Awake intubation option?&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Allergies?&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;preoxygenation&quot;&gt;Preoxygenation&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;3 mins or ETCO&lt;sub&gt;2&lt;&#x2F;sub&gt; &amp;gt;85%&lt;&#x2F;li&gt;
+&lt;li&gt;Consider CPAP&#x2F;NIV&lt;&#x2F;li&gt;
+&lt;li&gt;Apnoeic Nasal O&lt;sub&gt;2&lt;&#x2F;sub&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;optimise-patient-state&quot;&gt;Optimise patient state&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fluid&#x2F;vasopressor&#x2F;inotrope&lt;&#x2F;li&gt;
+&lt;li&gt;Aspirate NG tube&lt;&#x2F;li&gt;
+&lt;li&gt;Delayed sequence intubation&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;prepare-the-equipment&quot;&gt;Prepare the equipment&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;apply-monitors&quot;&gt;Apply monitors&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;SpO&lt;sub&gt;2&lt;&#x2F;sub&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;waveform capnography&lt;&#x2F;li&gt;
+&lt;li&gt;ECG&lt;&#x2F;li&gt;
+&lt;li&gt;Blood pressure&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;check-equipment&quot;&gt;Check equipment&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Tracheal tubes x2 (cuffs checked)&lt;&#x2F;li&gt;
+&lt;li&gt;Direct laryngoscopes x2&lt;&#x2F;li&gt;
+&lt;li&gt;Videolaryngoscope&lt;&#x2F;li&gt;
+&lt;li&gt;Bougie&#x2F;stylet&lt;&#x2F;li&gt;
+&lt;li&gt;Working suction&lt;&#x2F;li&gt;
+&lt;li&gt;Supraglottic airways&lt;&#x2F;li&gt;
+&lt;li&gt;Oropharyngeal&#x2F;nasal airways&lt;&#x2F;li&gt;
+&lt;li&gt;Flexible scope&#x2F;Aintree&lt;&#x2F;li&gt;
+&lt;li&gt;FONA set&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;check-drugs&quot;&gt;Check drugs&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Consider ketamine&lt;&#x2F;li&gt;
+&lt;li&gt;Relaxant&lt;&#x2F;li&gt;
+&lt;li&gt;Pressor&#x2F;inotrope&lt;&#x2F;li&gt;
+&lt;li&gt;Maintenance sedation&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;prepare-the-team&quot;&gt;Prepare the team&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Allocate roles (one person may have more than one role)
+&lt;ul&gt;
+&lt;li&gt;Team leader&lt;&#x2F;li&gt;
+&lt;li&gt;1&lt;sup&gt;st&lt;&#x2F;sup&gt; Intubator&lt;&#x2F;li&gt;
+&lt;li&gt;2&lt;sup&gt;nd&lt;&#x2F;sup&gt; Intubator&lt;&#x2F;li&gt;
+&lt;li&gt;Cricoid force&lt;&#x2F;li&gt;
+&lt;li&gt;Intubators assistant&lt;&#x2F;li&gt;
+&lt;li&gt;Drugs&lt;&#x2F;li&gt;
+&lt;li&gt;Monitoring patient&lt;&#x2F;li&gt;
+&lt;li&gt;Runner&lt;&#x2F;li&gt;
+&lt;li&gt;MILS (if indicated)&lt;&#x2F;li&gt;
+&lt;li&gt;FONA&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Who do we call for help?&lt;&#x2F;li&gt;
+&lt;li&gt;Who is noting the time?&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;prepare-for-difficulty&quot;&gt;Prepare for difficulty&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Can we wake the patient if intubation fails?&lt;&#x2F;li&gt;
+&lt;li&gt;Verbalise &quot;the airway plan is...&quot;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Plan A&lt;&#x2F;strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Drugs &amp;amp; laryngoscopy&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Plan B&#x2F;C&lt;&#x2F;strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Supraglottic airway&lt;&#x2F;li&gt;
+&lt;li&gt;Face-mask&lt;&#x2F;li&gt;
+&lt;li&gt;Fibreoptic intubation via supragottic airway&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Plan D&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Does anyone have any questions or concerns?&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+</feed>

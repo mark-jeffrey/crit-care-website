@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Predicting airway complications | Critical Care Handbook</title>
+  <meta name="title" content="Predicting airway complications">
+<meta name="description" content="Resources to support residents in ICU">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+  
+  <link rel="alternate" type="application/atom+xml" title="Critical Care Handbook" href="/atom.xml">
+  <style>
+    :root {
+    --width: 800px;
+    --font-main: Verdana, sans-serif;
+    --font-secondary: Verdana, sans-serif;
+    --font-scale: 1em;
+    --background-color: #fff;
+    --heading-color: #222;
+    --text-color: #444;
+    --link-color: #3273dc;
+    --visited-color: #8b6fcb;
+    --code-background-color: #f2f2f2;
+    --code-color: #222;
+    --blockquote-color: #222;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --background-color: #01242e;
+      --heading-color: #eee;
+      --text-color: #ddd;
+      --link-color: #8cc2dd;
+      --visited-color: #8b6fcb;
+      --code-background-color: #000;
+      --code-color: #ddd;
+      --blockquote-color: #ccc;
+    }
+  }
+
+  body {
+    font-family: var(--font-secondary);
+    font-size: var(--font-scale);
+    margin: auto;
+    padding: 20px;
+    max-width: var(--width);
+    text-align: left;
+    background-color: var(--background-color);
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    line-height: 1.5;
+    color: var(--text-color);
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: var(--font-main);
+    color: var(--heading-color);
+  }
+
+  a {
+    color: var(--link-color);
+    cursor: pointer;
+    text-decoration: none;
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
+
+  nav a {
+    margin-right: 8px;
+  }
+
+  nav span.active {
+    font-weight: bold;
+    margin-right: 10px;
+  }
+  strong,
+  b {
+    color: var(--heading-color);
+  }
+
+  button {
+    margin: 0;
+    cursor: pointer;
+  }
+
+  main {
+    line-height: 1.6;
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+
+  table th,
+  table td {
+    border: 1px solid lightgrey;
+    padding: 5px;
+  }
+
+  hr {
+    border: 0;
+    border-top: 1px dashed;
+  }
+
+  img {
+    max-width: 100%;
+  }
+
+  pre code {
+    background-color: var(--code-background-color);
+    color: var(--code-color);
+    display: block;
+    padding: 20px;
+    white-space: pre-wrap;
+    font-size: 0.875rem;
+    overflow-x: auto;
+  }
+
+  code {
+    font-family: monospace;
+    padding: 2px;
+    background-color: var(--code-background-color);
+    color: var(--code-color);
+    border-radius: 3px;
+  }
+
+  blockquote {
+    border-left: 1px solid #999;
+    color: var(--code-color);
+    padding-left: 20px;
+    font-style: italic;
+  }
+
+  footer {
+    padding: 25px 0;
+    text-align: center;
+  }
+
+  .title:hover {
+    text-decoration: none;
+  }
+
+  .title h1 {
+    font-size: 1.5em;
+  }
+
+  .inline {
+    width: auto !important;
+  }
+
+  .highlight,
+  .code {
+    padding: 1px 15px;
+    background-color: var(--code-background-color);
+    color: var(--code-color);
+    border-radius: 3px;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    overflow-x: auto;
+  }
+
+  /* blog post list */
+  ul.blog-posts {
+    list-style-type: none;
+    padding: unset;
+  }
+
+  ul.blog-posts li {
+    display: flex;
+  }
+
+  ul.blog-posts li span {
+    flex: 0 0 130px;
+  }
+
+  ul.blog-posts li a:visited {
+    color: var(--visited-color);
+  }
+
+  .tags {
+    font-size: smaller;
+  }
+
+  .footnote-definition {
+    display: flex;
+    margin-top: 1em;
+  }
+  .footnote-definition-label {
+    margin-left: 1rem;
+    margin-right: 0.5rem;
+    vertical-align: baseline;
+  }
+  .footnote-definition-label::after {
+    content: "."
+  }
+  .footnote-definition > p {
+    margin: 0;
+  }
+
+  </style>
+</head>
+<body>
+  <header>
+  <a href="/" class="title">
+    <h1>Critical Care Handbook</h1>
+  </a>
+  <nav aria-label="site">
+      <a href="/">Home</a>
+      <a href="/links/">Links</a>
+      <a href="/blog/">Blog</a>
+  </nav>
+</header>
+<h1>Predicting airway complications</h1>
+      <p>
+        <i>
+          <time datetime="2025-12-10T00:00:00+00:00" pubdate>2025-12-10</time>
+        </i>
+      </p>
+    <details open>
+      <summary>Table of contents</summary>
+    <ul>
+        <li>
+          <a href="/blog/predicting-airway-complications/#predicting-difficult-airway-and-intuabtion-complications">Predicting difficult airway and intuabtion complications</a>
+        </li>
+        <li>
+          <a href="/blog/predicting-airway-complications/#score">Score</a>
+        </li>
+        <li>
+          <a href="/blog/predicting-airway-complications/#interpretation">Interpretation</a>
+        </li>
+    </ul>
+    </details>
+  <main>
+    <h2 id="predicting-difficult-airway-and-intuabtion-complications">Predicting difficult airway and intuabtion complications</h2>
+<p>The baseline risk for difficult airway (8-11%) and severe complications (38%) is high in all critically ill patients. Difficult airway greatly increases the risk of severe complcations during intuabtion (30-35% vs 50-60%). Scoring systems for elective surgery therefore seriously underestimate risk in this cohort.</p>
+<p>Consider the <a href="https://doi.org/10.1164/rccm.201210-1851OC">MACOCHA Score</a> to identify patients at paritcularly high risk and plan accordingly.</p>
+<p><a href="https://www.mdcalc.com/calc/10476/macocha-score">MACOCHA score on MDCalc</a></p>
+<p>It is worth noting that Mallampati score does the heavy lifting in prediction difficult intubations (Identified 51/82 alone, compared to 62/82 with the full score).</p>
+<h2 id="score">Score</h2>
+<table><thead><tr><th>Factor</th><th>Score</th></tr></thead><tbody>
+<tr><td><em>Patient factors</em></td><td></td></tr>
+<tr><td>Mallampati III or IV</td><td>5</td></tr>
+<tr><td>Obstructive Sleep Apnoea</td><td>2</td></tr>
+<tr><td>Restricted neck movement</td><td>1</td></tr>
+<tr><td>Mouth opening &lt;3cm</td><td>1</td></tr>
+<tr><td><em>Pathology factors</em></td><td></td></tr>
+<tr><td>Coma</td><td>1</td></tr>
+<tr><td>Severe hypoxaemia &lt;80%</td><td>1</td></tr>
+<tr><td><em>Operator factors</em></td><td></td></tr>
+<tr><td>Non-anaesthetist</td><td>1</td></tr>
+</tbody></table>
+<h2 id="interpretation">Interpretation</h2>
+<p>Incidence of difficult airway or airway complication by score:</p>
+<table><thead><tr><th>Score</th><th>Risk</th></tr></thead><tbody>
+<tr><td>1-2</td><td>2%</td></tr>
+<tr><td>3-4</td><td>5%</td></tr>
+<tr><td>4-5</td><td>25%</td></tr>
+<tr><td>6-7</td><td>45%</td></tr>
+<tr><td>8-9</td><td>50%</td></tr>
+<tr><td>10-12</td><td>100%</td></tr>
+</tbody></table>
+
+  </main>
+  <p>
+        Tags:
+          <a href="/tags/airway/">#airway</a>
+          <a href="/tags/risk-scores/">#risk-scores</a>
+  </p>
+<footer>
+</footer>
+</body>
+</html>
