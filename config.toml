@@ -1,4 +1,4 @@
-title = "Critical Care Handbook"
+title = "Critically Caring"
 base_url = "/"
 description = "Resources to support residents in ICU"
 
@@ -23,7 +23,6 @@ language = "language"
 site = "site"
 
 [markdown]
-highlight_code = true
 
 [extra]
 date_format = "%Y-%m-%d"
@@ -36,7 +35,7 @@ max_level = 3
 visible_on_load = true
 
 [[extra.main_menu]]
-name = "Home"
+name = "About"
 url = "@/_index.md"
 
 [[extra.main_menu]]

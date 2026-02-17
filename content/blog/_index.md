@@ -1,3 +1,4 @@
 +++
-title = "Resources"
+title = "Blog"
+description = "Blog posts"
 +++

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-    <title>Critical Care Handbook - airway</title>
+    <title>Critically Caring - airway</title>
     <subtitle>Resources to support residents in ICU</subtitle>
     <link rel="self" type="application/atom+xml" href="/tags/airway/atom.xml"/>
     <link rel="alternate" type="text/html" href="/"/>
@@ -23,7 +23,7 @@
         <link rel="alternate" type="text/html" href="/blog/intubation-checklist/"/>
         <id>/blog/intubation-checklist/</id>
         
-        <content type="html" xml:base="/blog/intubation-checklist/">&lt;p&gt;Adapted from Difficult Airway Society &lt;a href=&quot;https:&#x2F;&#x2F;doi.org&#x2F;10.1016&#x2F;j.bja.2017.10.021&quot;&gt;Guidelines for the management of tracheal intubation in critically ill adults&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+        <content type="html" xml:base="/blog/intubation-checklist/">&lt;p&gt;Adapted from Difficult Airway Society &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;doi.org&#x2F;10.1016&#x2F;j.bja.2017.10.021&quot;&gt;Guidelines for the management of tracheal intubation in critically ill adults&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;prepare-the-patient&quot;&gt;Prepare the patient&lt;&#x2F;h2&gt;
 &lt;h3 id=&quot;assess-and-position&quot;&gt;Assess and position&lt;&#x2F;h3&gt;
 &lt;ul&gt;
@@ -142,8 +142,8 @@
         <id>/blog/predicting-airway-complications/</id>
         
         <content type="html" xml:base="/blog/predicting-airway-complications/">&lt;p&gt;The baseline risk for difficult airway (8-11%) and severe complications (38%) is high in all critically ill patients. Difficult airway greatly increases the risk of severe complcations during intubation (30-35% vs 50-60%). Scoring systems for elective surgery therefore seriously underestimate risk in this cohort.&lt;&#x2F;p&gt;
-&lt;p&gt;Consider the &lt;a href=&quot;https:&#x2F;&#x2F;doi.org&#x2F;10.1164&#x2F;rccm.201210-1851OC&quot;&gt;MACOCHA Score&lt;&#x2F;a&gt; to identify patients at paritcularly high risk and plan accordingly.&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.mdcalc.com&#x2F;calc&#x2F;10476&#x2F;macocha-score&quot;&gt;MACOCHA score on MDCalc&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Consider the &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;doi.org&#x2F;10.1164&#x2F;rccm.201210-1851OC&quot;&gt;MACOCHA Score&lt;&#x2F;a&gt; to identify patients at paritcularly high risk and plan accordingly.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.mdcalc.com&#x2F;calc&#x2F;10476&#x2F;macocha-score&quot;&gt;MACOCHA score on MDCalc&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;It is worth noting that Mallampati score does the heavy lifting in prediction difficult intubations (Identified 51&#x2F;82 alone, compared to 62&#x2F;82 with the full score).&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;score&quot;&gt;Score&lt;&#x2F;h2&gt;
 &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Factor&lt;&#x2F;th&gt;&lt;th&gt;Score&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
