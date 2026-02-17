@@ -1,5 +1,5 @@
 +++
-title = "Resources"
+title = "Links"
 description = "Links to external resources"
 updated = 2026-02-17
 +++
