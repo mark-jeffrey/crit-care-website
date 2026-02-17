@@ -3,6 +3,7 @@ title = "Links"
 description = "Links to external resources"
 updated = 2026-02-17
 +++
+
 # Emergencies
 
 ## [Guidelines for the management of tracheal intubation in critically ill adults](https://doi.org/10.1016/j.bja.2017.10.021)
@@ -29,7 +30,7 @@ updated = 2026-02-17
 
 ## [Management of perceived devastating brain injury after hospital admission](https://doi.org/10.1016/j.bja.2017.10.002)
 
-## Specific Conditions
+# Specific Conditions
 
 ## [ERC Guidelines 2025 Post-Resuscitation Care](https://doi.org/10.1016/j.resuscitation.2025.110809)
 
@@ -45,3 +46,4 @@ There is also a [focussed update](https://doi.org/10.1093/eurheartj/ehad195) fro
 - [Critical Care Reviews](https://criticalcarereviews.com/)
 - [Derranged Physiology](https://derangedphysiology.com/main/home)
 - [LITFL](https://litfl.com/)
+
