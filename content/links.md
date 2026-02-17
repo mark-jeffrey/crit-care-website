@@ -40,10 +40,9 @@ updated = 2026-02-17
 
 There is also a [focussed update](https://doi.org/10.1093/eurheartj/ehad195) from 2023 clarifying management of HFmrEF.
 
-## Useful Websites
+# Useful Websites
 
 - [Toxbase](https://www.toxbase.org)
 - [Critical Care Reviews](https://criticalcarereviews.com/)
 - [Derranged Physiology](https://derangedphysiology.com/main/home)
 - [LITFL](https://litfl.com/)
-
