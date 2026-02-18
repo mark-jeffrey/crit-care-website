@@ -43,5 +43,9 @@ name = "Links"
 url = "@/links.md"
 
 [[extra.main_menu]]
+name = "Publications"
+url = "@/publications.md"
+
+[[extra.main_menu]]
 name = "Blog"
 url = "@/blog/_index.md"
