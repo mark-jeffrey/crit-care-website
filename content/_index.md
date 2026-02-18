@@ -2,7 +2,7 @@
 title = "About"
 description = "Homepage"
 +++
-Welcome to my website. I'm a Critical Care Doctor with an interest in data analysis, collecting thoughts and resources, mostly intended as notes to myself. The website is built from markdown files using [Zola](https://www.getzola.org/). 
+Welcome to my website. I'm a Critical Care Doctor collecting thoughts and resources, mostly intended as notes to myself. The website is built from markdown files using [Zola](https://www.getzola.org/). 
 
 ## Contents
 
